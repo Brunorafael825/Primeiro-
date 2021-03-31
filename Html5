@@ -5,9 +5,27 @@
 			<title> Bruno Rafael </title>
      </head>           
             <body>
-            <header>
-            <h1> Bruno Rafael </h1>
-            </header>
-						
+              <header>
+              <img src="C:\Users\Samsung\Pictures\Camera Roll" alt="foto de teste">
+              	<h1> Bruno Rafael </h1>
+              </header>
+              	<header>
+				<section>
+                	<h2>Posts</h2>               
+                </header>
+                	<article>
+                    	<header>
+                    	<h3>Post #1</h3> 
+                        <img src="C:\Users\Samsung\Pictures\Camera Roll" alt="segunda foto de teste">
+                        </header>
+                        	<p>
+                            Caso queira me conhcer melhor profissionalmente pode clicar no meu nome <a href="https://www.linkedin.com/in/bruno825/" target="_blank">Bruno Rafael, </a> caso queira me contatar, aqui está o meu email: <a href="mailto:brunorafael825@gmail.com augue">meu email</a>
+                            </p>
+                    </article>
+                 </section>
+                        	<footer>
+                            	
+                            </footer>
+                  
 			</body>
 </html>
